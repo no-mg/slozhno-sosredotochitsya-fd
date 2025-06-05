@@ -116,11 +116,14 @@
 
 .logo {
   color: var(--logo-color);
-  text-shadow: 4px 4px 0 var(--accent-color);
   font-family: var(--font-family-main), sans-serif;
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   font-weight: 700;
   line-height: 82.5%;
+}
+
+.header__title {
+  text-shadow: 4px 4px 0 var(--accent-color);
 }
 
 .title__text {
@@ -231,11 +234,11 @@
   position: relative;
   display: grid;
   align-items: center;
-  height: 100vh;
 }
 
 .footer__title {
   text-align: center;
+  text-shadow: 2px 2px 0 var(--accent-color);
 }
 
 @media (min-width: 768px) {
@@ -358,7 +361,6 @@
 
   .footer {
     padding: 20px;
-    min-height: 1024px;
   }
 
   .footer__title {
@@ -404,7 +406,4 @@
     grid-template-columns: 32% 66%;
   }
   
-  .footer {
-    min-height: 768px;
-  }
 }
