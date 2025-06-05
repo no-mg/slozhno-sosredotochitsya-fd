@@ -11,10 +11,14 @@
   --text-decore-color-light: #353430;
   --text-color-dark: #F1B2CE;
   --text-color-light: #353430;
+  --title-color-light: #353430;
+  --title-color-dark: #FF0070;
   --logo-color-dark: #DB00FF;
   --logo-color-light: #FFC2E6;
   --bg-color-light: #FFF1F7;
   --bg-color-dark: #000028;
   --bg-image-light: url("../images/cover-image-light.png");
   --bg-image-dark: url("../images/cover-image-dark.png");
+  --decorated-color-light: #353430;
+  --decorated-color-dark: #FF0070;
 }

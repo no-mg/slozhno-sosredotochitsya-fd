@@ -14,8 +14,10 @@
   --accent-color: var(--accent-color-dark);
   --text-decore-color: var(--text-decore-color-dark);
   --text-color: var(--text-color-dark);
+  --title-color: var(--title-color-dark);
   --button-color: var(--accent-color);
   --logo-color: var(--logo-color-dark);
+  --decorated-color: var(--decorated-color-dark);
   --decorated-element-visible: block;
 }
 
@@ -30,8 +32,10 @@
     --accent-color: var(--accent-color-dark);
     --text-decore-color: var(--text-decore-color-dark);
     --text-color: var(--text-color-dark);
+    --title-color: var(--title-color-dark);
     --button-color: var(--accent-color);
     --logo-color: var(--logo-color-dark);
+    --decorated-color: var(--decorated-color-dark);
     --decorated-element-visible: block;
   }
   

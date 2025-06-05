@@ -14,8 +14,10 @@
   --accent-color: var(--accent-color-light);
   --text-decore-color: var(--text-decore-color-light);
   --text-color: var(--text-color-light);
+  --title-color: var(--title-color-light);
   --button-color: var(--text-color);
   --logo-color: var(--logo-color-light);
+  --decorated-color: var(--decorated-color-light);
   --decorated-element-visible: none;
 }
 
@@ -31,8 +33,10 @@
     --accent-color: var(--accent-color-light);
     --text-decore-color: var(--text-decore-color-light);
     --text-color: var(--text-color-light);
+    --title-color: var(--title-color-light);
     --button-color: var(--text-color);
     --logo-color: var(--logo-color-light);
+    --decorated-color: var(--decorated-color-light);
     --decorated-element-visible: none;
   }
 }
